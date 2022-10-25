@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4e0b05d-55f3-46d4-bb83-10bb9cc00c46" name="Changes" comment="SmartTV Commit" />
+    <list default="true" id="a4e0b05d-55f3-46d4-bb83-10bb9cc00c46" name="Changes" comment="SmartTV Commit!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,6 +30,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,12 +45,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a4e0b05d-55f3-46d4-bb83-10bb9cc00c46" name="Changes" comment="" />
+      <changelist id="" name="SmartTV" comment="exercicios DIO" />
       <created>1666710408567</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -70,7 +82,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666711363957</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="SmartTV Commit">
+      <created>1666711549714</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666711549714</updated>
+    </task>
+    <task id="LOCAL-00005" summary="SmartTV Commit!">
+      <created>1666721870098</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666721870098</updated>
+    </task>
+    <task id="LOCAL-00006" summary="SmartTV Commit!">
+      <created>1666721921710</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666721921710</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SmartTV Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="SmartTV Commit" />
+    <MESSAGE value="SmartTV Commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="SmartTV Commit!" />
   </component>
 </project>
