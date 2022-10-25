@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4e0b05d-55f3-46d4-bb83-10bb9cc00c46" name="Changes" comment="SmartTV Commit!" />
+    <list default="true" id="a4e0b05d-55f3-46d4-bb83-10bb9cc00c46" name="Changes" comment="SmartTV Commit!">
+      <changelist_data name="ALEXANDRE ROBALO DA SILVA" email="xandirsilva64@gmail.com" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +28,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="ALEXANDRE ROBALO DA SILVA &lt;xandirsilva64@gmail.com&gt;" />
         <option value="Alexandre &lt;xandirsilva64@gmail.com&gt;" />
       </list>
     </option>
@@ -103,7 +106,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666721921710</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="SmartTV Commit!">
+      <created>1666722184495</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666722184495</updated>
+    </task>
+    <task id="LOCAL-00008" summary="SmartTV Commit!">
+      <created>1666722864183</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666722864183</updated>
+    </task>
+    <task id="LOCAL-00009" summary="SmartTV Commit!">
+      <created>1666723800389</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666723800390</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
