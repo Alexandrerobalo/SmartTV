@@ -127,7 +127,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666723800390</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="SmartTV Commit!">
+      <created>1666724195965</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666724195965</updated>
+    </task>
+    <task id="LOCAL-00011" summary="SmartTV Commit!">
+      <created>1666724254484</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666724254484</updated>
+    </task>
+    <task id="LOCAL-00012" summary="SmartTV Commit!">
+      <created>1666724327757</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666724327757</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
